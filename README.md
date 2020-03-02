@@ -20,7 +20,7 @@ $ python3 grator.py stop
 ``` 
 ## Guide 
 
-To see duplicate words and display their numbers, we have the following command
+Introducing the options of this very useful tool
 
 * start To enable incognito mode 
 * stop To disable incognito mode
