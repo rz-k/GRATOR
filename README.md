@@ -22,6 +22,6 @@ $ python3 grator.py stop
 
 To see duplicate words and display their numbers, we have the following command
 
-* -f For Find and Show 
-* -r For Remove 
-* -c For Path file
+* start To enable incognito mode 
+* stop To disable incognito mode
+* help To show help
