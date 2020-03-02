@@ -3,11 +3,11 @@ It is a very useful tool where we can pass all of our system traffic through Tor
 
 ## Started Anonymus Mode 
 
-![alt text](http://s7.picofile.com/file/8388687442/find.png "Start Mode ")
+![alt text](http://s7.picofile.com/file/8389871000/start.png "Start Mode ")
 
 ## Stop Anonymus Mode
 
-![alt text](http://s7.picofile.com/file/8388687442/find.png "Stop Mode")
+![alt text](http://s6.picofile.com/file/8389871034/stop.png "Stop Mode")
 
 
 ## Installation & Runing
