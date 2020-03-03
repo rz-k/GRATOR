@@ -14,6 +14,8 @@ It is a very useful tool where we can pass all of our system traffic through Tor
 ``` 
 $ cd GRATOR 
 $ pip3 install -r requirements.txt
+$ chmod +x config.sh
+$ ./config.sh
 $ python3 grator.py help
 $ python3 grator.py start
 $ python3 grator.py stop
