@@ -3,7 +3,7 @@
 #### GR -> Gray
 ####  A -> Anonymus
 #### TOR -> Tor
-It is a very useful tool where we can pass all of our system traffic through Tor. Recommended for anyone testing and penetrating.Grator is a very useful tool where we can pass all the traffic of our system through the tor. This will allow you to anonymously pass all traffic to tools and applications, such as browsers and more.Currently running on Debian and Ubuntu  operating systems . **You must have root access level to run the tool and python3.6**.
+It is a very useful tool where we can pass all of our system traffic through Tor. Recommended for anyone testing and penetrating.Grator is a very useful tool where we can pass all the traffic of our system through the tor. This will allow you to anonymously pass all traffic to tools and applications, such as browsers and more.Currently running on Debian and Ubuntu  operating systems . **You must have root access level to run the tool and python3.8**.
 
 coded by [Gray Security Team](https://T.me/S3CURITY_GRAY)
 
