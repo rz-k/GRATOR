@@ -22,9 +22,9 @@ $ cd GRATOR
 $ pip3 install -r requirements.txt
 $ chmod +x config.sh
 $ ./config.sh
-$ python3.6 grator.py help
-$ python3.6 grator.py start
-$ python3.6 grator.py stop
+$ python3.8 grator.py help
+$ python3.8 grator.py start
+$ python3.8 grator.py stop
 ``` 
 ## Guide 
 
